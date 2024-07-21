@@ -60,7 +60,7 @@ To run the benchmark, follow these steps:
 
 ## Results
 
-For detailed results and analysis, please refer to the blog post: [Efficient List Merging in Java: CompositeCollection vs Collection](tbd).
+For detailed results and analysis, please refer to the blog post: [Efficient List Merging in Java: CompositeCollection vs Collection](https://maximooliveira.com/2024-07-21/efficient-list-merging-in-java-compositecollection-vs-collection).
 
 ## License
 
