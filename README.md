@@ -1,7 +1,7 @@
 # Collection Benchmark
 
-This repository contains a Java project to benchmark different methods of merging collections using the Java Microbenchmark Harness (JMH). Specifically, it compares the performance of `addAll` and `CompositeCollection` methods in terms of execution time and garbage collection overhead.
-
+This repository contains a Java project that benchmarks different methods of merging collections using the Java Microbenchmark Harness (JMH). 
+It compares the performance of addAll and CompositeCollection methods in terms of execution time and garbage collection overhead.
 ## Overview
 
 Merging collections is a common task in Java programming. This project aims to evaluate the efficiency of two approaches:
